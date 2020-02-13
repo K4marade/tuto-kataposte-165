@@ -46,9 +46,9 @@
 ### <ins>2. Plan de découpe du caisson OSB
 
 Voici les fichiers de découpe prêts à l'emploi que nous utilisons :
-* [Face A](laser/face-a.pdf)
-* [Face B](laser/face-b.pdf)
-* [Façade et plaque coeur](laser/facade-et-plaque-ampli.pdf)
+* [Face A](tmp/laser/face-a.pdf)
+* [Face B](tmp/laser/face-b.pdf)
+* [Façade et plaque coeur](tmp/laser/facade-et-plaque-ampli.pdf)
 
 Mais également le lien vers notre github où vous retrouverez les fichiers sources que vous pourrez remodeler à votre guise :
 
@@ -66,7 +66,7 @@ Avant de commencer : si vous avez un doute sur quel fil est lequel, aidez-vous d
 
 * Souder les fils noirs et rouges de la prise alimentation comme indiqué sur la photo :
 
-![PriseAlim](images/prisealim.jpg)
+![PriseAlim](images/prise-alim.jpg)
 
 ### <ins>4. Assemblage coeur et façade
 
@@ -80,7 +80,7 @@ A l'aide des vis M3, des écrous M3 et des manchons, fixer les 3 composants éle
 
 Voici comment brancher le kit de câbles au coeur :
 
-![coeur3](images/coeur3.png)
+![coeur3](images/coeur3.jpg)
 
 #### __*Façade :*__
 
@@ -88,22 +88,22 @@ Insérer la carte électronique de la façade dans la planche MDF. Il faudra jou
 
 Fixer la carte avec 1 vis M3 et 3 écrous des deux côtés :
 
-![Façade2](images/façade2.png)
+![Façade2](images/facade2.jpg)
 
 Ajuster la hauteur des écrous si besoin pour que la carte soit droite.
 
 Insérer le reste des composants : le bouton potentiomètre, les 3 LED, la prise alimentation et le bouton ON/OFF (en faisant attention d'orienter ce dernier avec les 2 pattes vers le haut).
 
-![Façade1](images/façade1.jpg)
-![Façade3](images/façade3.JPG)
+![Façade1](images/facade1.jpg)
+![Façade3](images/facade3.JPG)
 
 Utiliser les serre-câbles afin de rassembler tous les câbles proprement, en prenant soin de laisser de la longueur pour les 4 cosses des haut-parleurs :
 
-![Coeur-et-façade](images/coeuretfaçade.jpg)
+![Coeur-et-façade](images/coeur-et-facade.jpg)
 
 
 ### <ins>5. Montage du caisson
 
-Télécharger le [plan de montage](pdf/plan-montage-kataposte-165.pdf) au format PDF
+Télécharger le [plan de montage](tmp/pdf/plan-montage-kataposte-165.pdf) au format PDF
 
 N'hésitez pas à nous contacter si vous avez la moindre question : contact@kataposte.com
