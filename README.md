@@ -95,7 +95,7 @@ Ajuster la hauteur des écrous si besoin pour que la carte soit droite.
 Insérer le reste des composants : le bouton potentiomètre, les 3 LED, la prise alimentation et le bouton ON/OFF (en faisant attention d'orienter ce dernier avec les 2 pattes vers le haut).
 
 ![Façade1](images/facade1.jpg)
-![Façade3](images/facade3.JPG)
+![Façade3](images/facade3.jpg)
 
 Utiliser les serre-câbles afin de rassembler tous les câbles proprement, en prenant soin de laisser de la longueur pour les 4 cosses des haut-parleurs :
 
