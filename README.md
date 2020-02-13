@@ -46,9 +46,9 @@
 ### <ins>2. Plan de découpe du caisson OSB
 
 Voici les fichiers de découpe prêts à l'emploi que nous utilisons :
-* [Face A](tmp/laser/face-a.pdf)
-* [Face B](tmp/laser/face-b.pdf)
-* [Façade et plaque coeur](tmp/laser/facade-et-plaque-ampli.pdf)
+* [Face A](pdf/face-a.pdf)
+* [Face B](pdf/face-b.pdf)
+* [Façade et plaque coeur](pdf/facade-et-plaque-ampli.pdf)
 
 Mais également le lien vers notre github où vous retrouverez les fichiers sources que vous pourrez remodeler à votre guise :
 
@@ -104,6 +104,6 @@ Utiliser les serre-câbles afin de rassembler tous les câbles proprement, en pr
 
 ### <ins>5. Montage du caisson
 
-Télécharger le [plan de montage](tmp/pdf/plan-montage-kataposte-165.pdf) au format PDF
+Télécharger le [plan de montage](pdf/plan-montage-kataposte-165.pdf) au format PDF
 
 N'hésitez pas à nous contacter si vous avez la moindre question : contact@kataposte.com
